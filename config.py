@@ -14,12 +14,12 @@ DURATION_LIMIT = int(getenv("DURATION_LIMIT", "90"))
 OWNER_ID = int(getenv("OWNER_ID"))
 
 PING_IMG = getenv("PING_IMG", "https://te.legra.ph/file/bf668acd666ec26038aed.jpg")
-START_IMG = getenv("START_IMG", "https://graph.org/file/419be1ec33e774f3df5f7.jpg")
+START_IMG = getenv("START_IMG", "https://te.legra.ph/file/202ba4e6f0733c58b6e2d.jpg")
 
 SESSION = getenv("SESSION", None)
 
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/eng_hindi_chat_group")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NOOB_DEVIL_KINGDOM")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/UNIQUE_DPZ_COUPLES")
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1356469075").split()))
 
