@@ -8,7 +8,7 @@
   <img src="https://te.legra.ph/file/202ba4e6f0733c58b6e2d.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ](https://t.me/Nobitafallenmusicbot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ](https://t.me/Missbhumihar_musicbot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
