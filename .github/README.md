@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ 」──
+    ──「 missbhumihar ✘ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
