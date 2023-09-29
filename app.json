@@ -1,5 +1,5 @@
 {
-    "name": "nobita ダ ᴍᴜsɪᴄ",
+    "name": "missbhumihar ダ ᴍᴜsɪᴄ",
     "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/a472b1095d49c0e31b7e8.jpg",
     "keywords": [
@@ -28,7 +28,7 @@
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "1356469075",
+        "value": "6623813084",
         "required": true
       },
       "SESSION": {
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/eng_hindi_chat_group",
+        "value": "https://t.me/bhoot_bangla_chatting_group",
         "required": false
       }
     },
